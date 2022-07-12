@@ -1,0 +1,8 @@
+REST
+
+GET /comments - lists all comments
+GET /comments/ :id - lists all comments via some id
+PATCH /comments - modify/update a comments
+POST /comments - adds a new comments
+DELETE /comment/:id - removes a comment
+
