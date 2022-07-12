@@ -6,3 +6,4 @@ PATCH /comments - modify/update a comments
 POST /comments - adds a new comments
 DELETE /comment/:id - removes a comment
 
+we can also use 
